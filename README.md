@@ -1,5 +1,6 @@
-#Building SWAGAT DARTA PRANALI
-# स्वागत  (Swagat)
+
+**#Building SWAGAT DARTA PRANALI (vibe coding)
+**# स्वागत  (Swagat)
 
 A **Java-based smart college event entry and registration system** built to replace the traditional manual Excel workflow.
 
